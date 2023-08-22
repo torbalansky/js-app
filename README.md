@@ -2,7 +2,7 @@
 
 Explore the planets of the Star Wars universe with this interactive web app. View a list of planets and click on each planet to see detailed information.
 
-![Video Demo](img/star-wars.mp4)
+![Video Demo](img/swapi.gif)
 
 ## Live Demo
 
